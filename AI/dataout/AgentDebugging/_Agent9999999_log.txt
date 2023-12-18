@@ -1,0 +1,93 @@
+# Starting survey !
+For this Survey, in tests, the agent is behind Cluster 0
+Following random cluster 3. Exploration Epsilon is 1.0 Current probabilities per cluster: [0.25 0.25 0.25 0.25]. Random expl rate so far (#randomselections (clip and question id) at question index): 1/1
+============== For theme 0 agent selected clip 11 =============== 
+Following random cluster 0. Exploration Epsilon is 1.0 Current probabilities per cluster: [0.25 0.25 0.25 0.25]. Random expl rate so far (#randomselections (clip and question id) at question index): 2/1
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A2A1E6F10>
+Agent selected question id 51
+Current cluster probs: [0.40 0.06 0.22 0.32]
+Following random cluster 0. Exploration Epsilon is 0.85 Current probabilities per cluster: [0.40 0.06 0.22 0.32]. Random expl rate so far (#randomselections (clip and question id) at question index): 3/2
+============== For theme 1 agent selected clip 27 =============== 
+Following random cluster 0. Exploration Epsilon is 0.85 Current probabilities per cluster: [0.40 0.06 0.22 0.32]. Random expl rate so far (#randomselections (clip and question id) at question index): 4/2
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A2C282CA0>
+Agent selected question id 40
+Current cluster probs: [0.47 0.06 0.27 0.21]
+Following random cluster 0. Exploration Epsilon is 0.7224999999999999 Current probabilities per cluster: [0.47 0.06 0.27 0.21]. Random expl rate so far (#randomselections (clip and question id) at question index): 5/3
+Following random cluster 2. Exploration Epsilon is 0.7224999999999999 Current probabilities per cluster: [0.47 0.06 0.27 0.21]. Random expl rate so far (#randomselections (clip and question id) at question index): 6/3
+============== For theme 2 agent selected clip 26 =============== 
+Following random cluster 1. Exploration Epsilon is 0.7224999999999999 Current probabilities per cluster: [0.47 0.06 0.27 0.21]. Random expl rate so far (#randomselections (clip and question id) at question index): 7/3
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A2D36EB50>
+Agent selected question id 39
+Current cluster probs: [0.45 0.07 0.30 0.19]
+Following random cluster 1. Exploration Epsilon is 0.6141249999999999 Current probabilities per cluster: [0.45 0.07 0.30 0.19]. Random expl rate so far (#randomselections (clip and question id) at question index): 8/4
+============== For theme 3 agent selected clip 24 =============== 
+Following cluster 0 based on random roullete selection. Best was 0. Random Roulette rate: 0/4
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A2C93D8E0>
+Agent selected question id 38
+Current cluster probs: [0.39 0.10 0.33 0.18]
+Following cluster 3 based on random roullete selection. Best was 0. Random Roulette rate: 1/5
+Following random cluster 1. Exploration Epsilon is 0.5220062499999999 Current probabilities per cluster: [0.39 0.10 0.33 0.18]. Random expl rate so far (#randomselections (clip and question id) at question index): 9/5
+============== For theme 4 agent selected clip 17 =============== 
+Following cluster 1 based on random roullete selection. Best was 0. Random Roulette rate: 2/5
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A306B8250>
+Agent selected question id 10
+Current cluster probs: [0.37 0.13 0.34 0.16]
+Following cluster 2 based on random roullete selection. Best was 0. Random Roulette rate: 3/6
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A336503D0>
+Agent selected question id 11
+Current cluster probs: [0.37 0.13 0.34 0.16]
+Following random cluster 1. Exploration Epsilon is 0.37714951562499993 Current probabilities per cluster: [0.37 0.13 0.34 0.16]. Random expl rate so far (#randomselections (clip and question id) at question index): 10/7
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A3C1B1BB0>
+Agent selected question id 12
+Current cluster probs: [0.33 0.14 0.36 0.17]
+Following cluster 1 based on random roullete selection. Best was 2. Random Roulette rate: 4/8
+============== For theme 5 agent selected clip 22 =============== 
+Following cluster 2 based on random roullete selection. Best was 2. Random Roulette rate: 4/8
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A3C1B1BB0>
+Agent selected question id 16
+Current cluster probs: [0.29 0.18 0.36 0.17]
+Following cluster 3 based on random roullete selection. Best was 2. Random Roulette rate: 5/9
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A3EFC6370>
+Agent selected question id 17
+Current cluster probs: [0.28 0.17 0.38 0.17]
+Following cluster 2 based on random roullete selection. Best was 2. Random Roulette rate: 5/10
+============== For theme 6 agent selected clip 25 =============== 
+Following cluster 0 based on random roullete selection. Best was 2. Random Roulette rate: 6/10
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A41EDAFD0>
+Agent selected question id 35
+Current cluster probs: [0.27 0.16 0.41 0.16]
+Following cluster 0 based on random roullete selection. Best was 2. Random Roulette rate: 7/11
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A408128E0>
+Agent selected question id 46
+Current cluster probs: [0.28 0.14 0.41 0.17]
+Following cluster 3 based on random roullete selection. Best was 2. Random Roulette rate: 8/12
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A47CDDA30>
+Agent selected question id 48
+Current cluster probs: [0.29 0.13 0.40 0.18]
+Following cluster 2 based on random roullete selection. Best was 2. Random Roulette rate: 8/13
+============== For theme 7 agent selected clip 15 =============== 
+Following cluster 3 based on random roullete selection. Best was 2. Random Roulette rate: 9/13
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A4EFD19A0>
+Agent selected question id 5
+Current cluster probs: [0.30 0.12 0.40 0.18]
+Following cluster 2 based on random roullete selection. Best was 2. Random Roulette rate: 9/14
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A50FD7220>
+Agent selected question id 33
+Current cluster probs: [0.30 0.11 0.40 0.18]
+Following cluster 2 based on random roullete selection. Best was 2. Random Roulette rate: 9/15
+============== For theme 8 agent selected clip 9 =============== 
+Following cluster 1 based on random roullete selection. Best was 2. Random Roulette rate: 10/15
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A54CA5E80>
+Agent selected question id 21
+Current cluster probs: [0.31 0.11 0.39 0.18]
+Following cluster 2 based on random roullete selection. Best was 2. Random Roulette rate: 10/16
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A4B965970>
+Agent selected question id 22
+Current cluster probs: [0.32 0.11 0.39 0.18]
+Following cluster 3 based on random roullete selection. Best was 2. Random Roulette rate: 11/17
+============== For theme 9 agent selected clip 29 =============== 
+Following cluster 3 based on random roullete selection. Best was 2. Random Roulette rate: 12/17
+<DataDefinitions.UserScoresSurveyResults object at 0x0000019A5A357730>
+Agent selected question id 45
+Current cluster probs: [0.34 0.10 0.38 0.18]
+# Ending survey !

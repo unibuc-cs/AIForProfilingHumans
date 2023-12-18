@@ -1,0 +1,5 @@
+SCORE function inside agent basic
+
+FIX THE VISUALIZATION FUNCTIONS FROM userAttributesPerCategoryDeviations=self.attributesDeviations_byCategory_raw,
+
+FIX the contributions def getContributionOfAttrAndCats(self, clusterIndex : int) -> Dict[str, Dict[any, float]]:
