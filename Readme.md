@@ -1,4 +1,4 @@
-# Welcome !
+# Adaptive questionnaire design using AI agents for people profiling
 
 This is a tool for automatic profiling and clustering persons by conducting interviews.
 
