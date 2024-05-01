@@ -1,4 +1,4 @@
-# Adaptive questionnaire design using various types of AI agents for people profiling
+# Adaptive questionnaire design using AI agents for people profiling
 
 This is a tool for automatic profiling and clustering of persons by conducting interviews.
 
@@ -26,3 +26,5 @@ We implement several AI agents implemented in Tensorflow 2.0. These implementati
 
 ## Other failed or work-in-progress experiments
 * Various other attempts are provided in the prototyping subfolder.
+
+Acknowledgements: This research was supported by European Union’s Horizon Europe research and innovation programme under grant agreement no. 101070455, [project DYNABIC](https://dynabic.eu).
